@@ -1,4 +1,4 @@
-import { createPublicClient, http, parseEther } from 'viem';
+imp1ort { createPublicClient, http, parseEther } from 'viem';
 import { base } from 'viem/chains';
 import { createSmartAccountClient } from 'permissionless';
 import { privateKeyToSimpleSmartAccount } from 'permissionless/accounts';
