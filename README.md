@@ -1,4 +1,4 @@
-6754321imp1ort { createPublicClient, http, parseEther } from 'viem';
+76754321imp1ort { createPublicClient, http, parseEther } from 'viem';
 import { base } from 'viem/chains';
 import { createSmartAccountClient } from 'permissionless';
 import { privateKeyToSimpleSmartAccount } from 'permissionless/accounts';
